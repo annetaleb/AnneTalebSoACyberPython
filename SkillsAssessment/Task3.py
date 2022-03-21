@@ -1,6 +1,7 @@
 #  TASK 3
 #  Anne Taleb
 #  21 March 2022
+#  Version 1.0
 #  This program reads the ServerList file and for each
 #  line searches the url for specific HTTP headers
 #  The headers are considered headers that show too much information about the server and

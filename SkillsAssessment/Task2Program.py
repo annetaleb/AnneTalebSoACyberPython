@@ -1,5 +1,6 @@
 # Task 2
 # Anne Taleb 21 March 2022
+# Version 1.2
 # parse the information for the given web server
 #Use the HTTP headers as listed in the assessment.
 import requests
